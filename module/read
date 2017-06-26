@@ -1,0 +1,11 @@
+Object literals
+
+{
+	street:'main',
+	number:100,
+	Apartment:
+	 {
+		floor: 3,
+	 }
+}
+
